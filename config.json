@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "tokenvave",
+        "uuid": 4486344,
+        "checksum": "vptxr"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
